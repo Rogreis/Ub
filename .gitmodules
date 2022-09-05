@@ -1,0 +1,24 @@
+[submodule "UbStudyHelp"]
+	path = UbStudyHelp
+	url = git@github.com:Rogreis/UbStudyHelp.git
+[submodule "UbStandardObjects"]
+	path = UbStandardObjects
+	url = git@github.com:Rogreis/UbStandardObjects.git
+[submodule "UbReviewerMaui"]
+	path = UbReviewerMaui
+	url = git@github.com:Rogreis/UbReviewerMaui.git
+[submodule "UbStudyHelpGenerator"]
+	path = UbStudyHelpGenerator
+	url = git@github.com:Rogreis/UbStudyHelpGenerator.git
+[submodule "UbReviewer"]
+	path = UbReviewer
+	url = git@github.com:Rogreis/UbReviewer.git
+[submodule "PtAlternative"]
+	path = PtAlternative
+	url = git@github.com:Rogreis/PtAlternative.git
+[submodule "TUB_PT_BR"]
+	path = TUB_PT_BR
+	url = git@github.com:Rogreis/TUB_PT_BR.git
+[submodule "TUB_Files"]
+	path = TUB_Files
+	url = git@github.com:Rogreis/TUB_Files.git
